@@ -1,6 +1,8 @@
 {
   "ovpn_file":[
     {"id":0,"file":"
+ignore-unknown-option data-ciphers
+setenv UV_ID de523af20c964848a01ec15aa1a5d2d3
 setenv UV_NAME ancient-thunder-7115
 client
 dev tun
